@@ -25,6 +25,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Deploy on Vercel
 
-deploy performed on [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
+deploy performed on [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-Project Link:
+Project Link: [Memory Game](https://memory-game-seven-peach.vercel.app).
